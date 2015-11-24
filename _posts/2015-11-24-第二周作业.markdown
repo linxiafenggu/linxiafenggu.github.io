@@ -1,8 +1,9 @@
 ---
-layout:post  
-title:"阅读笔记“
-date:2015-11-24
+layout: post
+title:  "阅读笔记"
+date:   2015-11-24
 ---
+
 
 
 #『开发认知潜能的九堂课』阅读笔记
